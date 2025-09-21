@@ -2,13 +2,13 @@
 
 💡 **AI & Computer Vision Engineer | Generative AI Enthusiast**  
 🎓 B.Tech in AI & Data Science @ SECE
-🛠 Passionate about building **practical AI systems** that solve real-world problems.  
 
 ---
 
 ## 🔭 What I Do
 - 🤖 Design and build **Generative AI applications**
-- 👁️ Develop **Computer Vision solutions** 
+- 👁️ Develop **Computer Vision solutions**
+- 🛠 Passionate about building **practical AI systems** that solve real-world problems.  
 
 ---
 
