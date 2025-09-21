@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey, I'm Naresh (he/him)  
 
-<!--
-**nareshmlx/nareshmlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **AI & Computer Vision Engineer | Generative AI Enthusiast**  
+🎓 B.Tech in AI & Data Science @ SECE
+🛠 Passionate about building **practical AI systems** that solve real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I Do
+- 🤖 Design and build **Generative AI applications**
+- 👁️ Develop **Computer Vision solutions** 
+
+---
+
+## 🌟 Featured Projects
+- ⚖️ **Law For All (RAG-based Legal QA)** 
+- 🤖 **Multi-Agent Finance Assistant** 
+- 🔍 **Metal Surface Defect Detection**
+
+---
+
+## 📊 GitHub Stats
+![Naresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nareshmlx&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=nareshmlx&theme=tokyonight&hide_border=false)  
+
+---
+
+## 🌐 Connect With Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nareshrajaml)  
+- 🤗 [Hugging Face](https://huggingface.co/nareshmlx)  
+- 📧 Email: nareshrajaml@gmail.com  
+
+---
+
+✨ *AI & CV Engineer exploring and solving GenAI and CV needs. Always open to collaborations!*  
