@@ -80,12 +80,12 @@ Streamlit • Next.js
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nareshmlx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nareshmlx&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nareshmlx&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nareshmlx&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=nareshmlx&theme=tokyonight&hide_border=true" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nareshmlx&theme=tokyonight" />
 </p>
 
 ---
