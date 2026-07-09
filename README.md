@@ -4,8 +4,8 @@
 
 Building production-ready AI systems — from model logic to full-stack deployment.
 
+💼 AI Engineer @ BigVision  
 🎓 B.Tech in AI & Data Science  
-💼 AI Engineering Intern @ BigVision  
 
 ---
 
